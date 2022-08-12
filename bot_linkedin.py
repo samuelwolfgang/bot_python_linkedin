@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Selenium
 from selenium import webdriver
 
@@ -18,9 +12,6 @@ class Linkedin:
     
 
     
-
-
-# In[ ]:
 
 
 
